@@ -9,8 +9,7 @@
   </a>
 </p>
 
-### 👨‍💻 Sobre mim
-> Sempre evoluindo — engenharia de software como disciplina, não improviso.  
+### 👨‍💻 Sobre
 > Desenvolvedor com foco em arquitetura, qualidade de código e construção de sistemas sustentáveis a longo prazo.
 
 ---
