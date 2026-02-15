@@ -1,41 +1,41 @@
 # Gleuton Dutra
-> Sempre evoluindo — engenharia de software como disciplina, não improviso.
 
-### 🧠 Foco técnico
-- Arquitetura de Software  
-- Refactoring orientado a domínio  
-- Design Patterns aplicados ao negócio  
-- Clean Code & Qualidade de Código  
-- SOLID  
-- Testabilidade e manutenibilidade  
-- Engenharia de Software pragmática  
-
----
-
-### 🛠️ Stacks principais
-**Backend:** PHP (Laravel, Symfony, Lumen, Slim, Hyperf), Golang  
-**Frontend:** JavaScript, Vue.js  
-**Banco de Dados:** PostgreSQL, MySQL, Oracle  
-**Arquitetura:** DDD, Clean Architecture, Hexagonal  
-**Infra/DevOps:** Docker, CI/CD  
-**Outros:** JWT, APIs REST, Mensageria, Sistemas Distribuídos  
-
----
-
-### 📊 Estatísticas
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gleuton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleuton&layout=compact&theme=tokyonight&hide=html,css" />
+<p>
+  <a href="https://www.linkedin.com/in/gleutondutra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gleutondutra/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
----
-
-### 🌐 Conexões
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GleutonDutra-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleutondutra/)
-[![Instagram](https://img.shields.io/badge/Instagram-GleutonDutra-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gleutondutra/)
-[![GitHub](https://img.shields.io/badge/GitHub-gleuton-black?style=flat-square&logo=github&logoColor=white)](https://github.com/gleuton)
+### 👨‍💻 Sobre mim
+> Sempre evoluindo — engenharia de software como disciplina, não improviso.  
+> Desenvolvedor com foco em arquitetura, qualidade de código e construção de sistemas sustentáveis a longo prazo.
 
 ---
 
-> _"Slow is smooth. Smooth is fast."_  
-> _Engenharia boa não corre — flui._
+### 🧠 Especialidades
+- **Arquitetura:** DDD, Clean Architecture, Hexagonal, Microsserviços
+- **Qualidade:** Refactoring, Design Patterns, Testes Automatizados (TDD, Pest, PHPUnit)
+- **Pragmatismo:** Soluções orientadas ao valor de negócio, não apenas à tecnologia
+- **Modelagem:** Domínio, identidade, regras de negócio e consistência de sistemas
+
+### 🛠️ Tecnologias
+- **Backend:** `PHP (Laravel, Symfony, Hyperf, Lumen, Slim)` · `Golang`
+- **Frontend:** `Vue.js` · `JavaScript`
+- **Banco de dados:** `PostgreSQL` · `MySQL` · `Oracle`
+- **Infra/DevOps:** `Docker` · `CI/CD`
+- **Arquitetura:** `APIs REST` · `JWT` · `Mensageria` · `Sistemas distribuídos`
+
+### 📚 Interesses
+- Arquitetura de sistemas complexos
+- Matemática aplicada
+- Física
+- Eletrônica
+- Leituras aleatórias
+- Podcasts
+
+---
+
+> _"Slow is smooth. Smooth is fast."_
