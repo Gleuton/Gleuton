@@ -10,7 +10,9 @@
 </p>
 
 ### 👨‍💻 Sobre
-> Desenvolvedor com foco em arquitetura, qualidade de código e construção de sistemas sustentáveis a longo prazo.
+> Desenvolvedor de Software Sênior com mais de 10 anos em backend, com forte atuação em PHP, arquitetura e performance.
+> Lidero iniciativas de qualidade e maturidade técnica, conectando decisões de engenharia a resultado de negócio.
+> Em projetos críticos, conduzi reengenharia que reduziu processamento de 12h para 45min, com foco em sistemas escaláveis, resilientes e sustentáveis.
 
 ---
 
