@@ -30,10 +30,10 @@
 ---
 <table border="1" cellspacing="0" cellpadding="8">
   <tr>
-    <td align="center" valign="top">
+    <td align="left" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleuton&theme=dark&hide_border=true&layout=donut-vertical&cache_seconds=1800" width="300"/>
     </td>
-    <td align="center" valign="top">
+    <td align="left" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=gleuton&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true"/>
       <br/>
       <img src="https://nirzak-streak-stats.vercel.app/?user=gleuton&theme=dark&hide_border=true"/>
