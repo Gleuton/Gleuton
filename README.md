@@ -29,14 +29,9 @@
 
 ---
 <div>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&layout=donut-vertical&cache_seconds=1800" width="300"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleuton&theme=dark&hide_border=true&layout=donut-vertical&cache_seconds=1800" width="300"/>
 </div>
 
-<div>
-| ![Stats](https://github-readme-stats.vercel.app/api?username=adryannofc&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true)
-| ![Streak](https://nirzak-streak-stats.vercel.app/?user=adryannofc&theme=dark&hide_border=true)
-|---|---|
-</div>
 
 ### 📚 Interesses
 - Arquitetura de sistemas complexos
