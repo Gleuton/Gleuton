@@ -30,15 +30,15 @@
 - **Arquitetura:** `APIs REST` · `JWT` · `Mensageria` · `Sistemas distribuídos`
 
 ---
-<table border="1" cellspacing="0" cellpadding="8">
+<table border="0" cellspacing="0" cellpadding="8" width="100%">
   <tr>
-    <td align="left" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleuton&theme=dark&hide_border=true&layout=donut-vertical&cache_seconds=1800" width="300"/>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleuton&theme=dark&hide_border=true&layout=compact&cache_seconds=1800" width="100%"/>
     </td>
-    <td align="left" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=gleuton&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true"/>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=gleuton&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true" width="100%"/>
       <br/>
-      <img src="https://streak-stats.demolab.com?user=gleuton&theme=dark&hide_border=true"/>
+      <img src="https://streak-stats.demolab.com?user=gleuton&theme=dark&hide_border=true" width="100%"/>
     </td>
   </tr>
 </table>
