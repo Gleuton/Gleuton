@@ -38,7 +38,7 @@
     <td align="left" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=gleuton&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true"/>
       <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=gleuton&theme=dark&hide_border=true"/>
+      <img src="https://streak-stats.demolab.com?user=gleuton&theme=dark&hide_border=true"/>
     </td>
   </tr>
 </table>
