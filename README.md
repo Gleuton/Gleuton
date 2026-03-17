@@ -10,32 +10,37 @@
 </p>
 
 ### 👨‍💻 Sobre
+
 > Desenvolvedor de Software Sênior com mais de 10 anos em backend, com forte atuação em PHP, arquitetura e performance.
 > Lidero iniciativas de qualidade e maturidade técnica, conectando decisões de engenharia a resultado de negócio.
-> Em projetos críticos, conduzi reengenharia que reduziu processamento de 12h para 45min, com foco em sistemas escaláveis, resilientes e sustentáveis.
+> Em projetos críticos, conduzi reengenharia que reduziu processamento de 12h para 45min, com foco em sistemas
+> escaláveis, resilientes e sustentáveis.
 
 ---
 
 ### 🧠 Especialidades
+
 - **Arquitetura:** DDD, Clean Architecture, Hexagonal, Microsserviços
 - **Qualidade:** Refactoring, Design Patterns, Testes Automatizados (TDD, Pest, PHPUnit)
 - **Pragmatismo:** Soluções orientadas ao valor de negócio, não apenas à tecnologia
 - **Modelagem:** Domínio, identidade, regras de negócio e consistência de sistemas
 
 ### 🛠️ Tecnologias
+
 - **Backend:** `PHP (Laravel, Symfony, Hyperf, Lumen, Slim)` · `Golang`
 - **Frontend:** `Vue.js` · `JavaScript`
 - **Banco de dados:** `PostgreSQL` · `MySQL` · `Oracle`
 - **Infra/DevOps:** `Docker` · `CI/CD`
 - **Arquitetura:** `APIs REST` · `JWT` · `Mensageria` · `Sistemas distribuídos`
 
+
 ---
-<table border="0" cellspacing="0" cellpadding="8" width="100%">
+
+<table border="0" cellspacing="0" cellpadding="1" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleuton&theme=dark&hide_border=true&layout=compact&cache_seconds=1800" width="100%"/>
-    </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="40%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleuton&theme=dark&hide_border=true&layout=donut-vertical&cache_seconds=1800"/>    </td>
+    <td align="center" valign="top" width="60%">
       <img src="https://github-readme-stats.vercel.app/api?username=gleuton&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true" width="100%"/>
       <br/>
       <img src="https://streak-stats.demolab.com?user=gleuton&theme=dark&hide_border=true" width="100%"/>
@@ -43,8 +48,9 @@
   </tr>
 </table>
 
-
+---
 ### 📚 Interesses
+
 - Arquitetura de sistemas complexos
 - Matemática aplicada
 - Física
