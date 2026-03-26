@@ -38,12 +38,12 @@
 
 <table border="0" cellspacing="0" cellpadding="1" width="100%">
   <tr>
-    <td align="center" valign="top" width="40%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleuton&theme=dark&hide_border=true&layout=donut-vertical&cache_seconds=1800"/>    </td>
-    <td align="center" valign="top" width="60%">
-      <img src="https://github-readme-stats.vercel.app/api?username=gleuton&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true" width="100%"/>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gleuton&theme=dark&hide_border=true&layout=compact&cache_seconds=1800"/>
       <br/>
-      <img src="https://streak-stats.demolab.com?user=gleuton&theme=dark&hide_border=true" width="100%"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gleuton&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true"/>
+      <br/>
+      <img src="https://streak-stats.demolab.com?user=gleuton&theme=dark&hide_border=true"/>
     </td>
   </tr>
 </table>
